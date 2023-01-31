@@ -1,0 +1,17 @@
+{
+  "name": "es_mongo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node compare.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@elastic/elasticsearch": "^7.17.0",
+    "mongodb": "^3.7.3",
+    "mongoose": "^5.13.15",
+    "ramda": "^0.26.1"
+  }
+}
